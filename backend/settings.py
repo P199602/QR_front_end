@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', '56.228.33.46']
 
-FRONTEND_URL = 'http://56.228.33.46:5173'
+FRONTEND_URL = 'http://56.228.33.46:5174'
 
 
 # Database
