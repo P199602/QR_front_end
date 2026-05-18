@@ -79,6 +79,11 @@ TEMPLATES = [
 WSGI_APPLICATION = 'backend.wsgi.application'
 
 
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '56.228.33.46']
+
+FRONTEND_URL = 'http://56.228.33.46:5173'
+
+
 # Database
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
 
